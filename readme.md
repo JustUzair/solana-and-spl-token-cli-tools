@@ -12,7 +12,7 @@
 - solana-keygen pubkey
   - displays public key of your wallet
 - solana balance --url devnet
-  - check balance of your account
+  - check balance of your account on devnet
 - solana airdrop --url devnet [AMOUNT] [YOUR_ADDRESS]
   - receive test solana in your wallet
 
